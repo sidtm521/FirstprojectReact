@@ -36,7 +36,7 @@ const Demo = () => {
 
   return (
     <div className="container">
-      <h1>Register Form</h1>
+      <h1>Welcome To Register Form</h1>
       <hr></hr>
       <div className="flex-row">
         <div className="flex-large">
